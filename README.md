@@ -1,4 +1,5 @@
 # Ex.03 Slot Time Table
+## DATE: 15/04/2024
 ## AIM
   To create slot time table.
 
